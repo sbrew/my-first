@@ -1,11 +1,7 @@
 /*
 line 2
 line 2.5
-<<<<<<< HEAD
-line 3 in temp repository
-=======
-line 3 changed
->>>>>>> 5137e40cc4c1f6d329068fe612e5895dd06095b6
+line 3 changed in temp repository
 line 4
 line 5
 line 6
